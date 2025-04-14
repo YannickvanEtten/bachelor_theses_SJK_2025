@@ -24,17 +24,22 @@ These dates could be subject to small changes. If so this will be communicated.
 ## Question hours
 Yannick van Etten will hold question hours once a week. On Wednesdays from 10.00 till 15.00 slots of 30 minutes each are available to book using this [Appointment Link](https://calendar.notion.so/meet/yannick_v_etten/m3ad3kd3). Please write me an email if you plan to meet online. It could be beneficial to send a question in advance with a specific topic you want to discuss. The meeting on campus will take place in:
 | Date       | Room     |
-|------------|---------|
-| 02-04-2025 | NU-6A52 |
-| 09-04-2025 | NU-4B01 |
-| 16-04-2025 |  |
-| 23-04-2025 |  |
-| 30-04-2025 |  |
-| 07-05-2025 |  |
-| 14-04-2025 |  |
-| 21-04-2025 |  |
-| 28-04-2025 |  |
-Note this will likely change every week.
+|------------|----------|
+| 16-04-2025 | OZW-6A15 |
+| 23-04-2025 | Other date  |
+| 30-04-2025 | NU-5B23  |
+| 07-05-2025 | OZW-6C02 |
+| 14-05-2025 | IN-3B59  |
+| 21-05-2025 | NU-4B01  |
+| 28-05-2025 | NU-2B25  |
+| 04-06-2025 | NU-5B23  |
+| 11-06-2025 | NU-6A91  |
+| 18-06-2025 | NU-5A71  |
+| 25-06-2025 | NU-6A91  |
+
+
+Note that in the week of 23-04-2025 the setting will be different. Potential extra meeting spots the week of 30-04-2025.
+
 
 ## Contact
 - Prof. dr. Siem Jan Koopman: [s.j.koopman@vu.nl](mailto:s.j.koopman@vu.nl)
